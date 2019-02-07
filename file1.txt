@@ -2,10 +2,5 @@ Pros
 ========================
 
 - cheese 
-- mountains
-
-Cons
-======================
-
-- expensive  
+- mountains 
 
